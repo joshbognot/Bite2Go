@@ -1,0 +1,81 @@
+Array
+(
+    [name] => test
+    [contact] => 09304330131
+    [address] => 15.47592276455205, 120.54262873055798
+    [instructions] => test
+    [payment_method] => Cash
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Barbeque
+                    [quantity] => 1
+                    [price] => 15
+                )
+
+            [1] => Array
+                (
+                    [name] => Siopao
+                    [quantity] => 1
+                    [price] => 40
+                )
+
+        )
+
+    [total_price] => 55.00
+)
+Array
+(
+    [name] => test
+    [contact] => 09304330131
+    [address] => 15.47592276455205, 120.54262873055798
+    [instructions] => test
+    [payment_method] => Cash
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Barbeque
+                    [quantity] => 1
+                    [price] => 15
+                )
+
+            [1] => Array
+                (
+                    [name] => Siopao
+                    [quantity] => 1
+                    [price] => 40
+                )
+
+        )
+
+    [total_price] => 55.00
+)
+Array
+(
+    [name] => test
+    [contact] => 09304330131
+    [address] => 15.47592276455205, 120.54262873055798
+    [instructions] => test
+    [payment_method] => Cash
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Barbeque
+                    [quantity] => 1
+                    [price] => 15
+                )
+
+            [1] => Array
+                (
+                    [name] => Siopao
+                    [quantity] => 1
+                    [price] => 40
+                )
+
+        )
+
+    [total_price] => 55.00
+)
